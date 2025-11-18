@@ -13,3 +13,9 @@ Ce projet démontre comment consommer des APIs REST dans React en utilisant deux
 ##  Structure du projet
 
 <img width="660" height="649" alt="Capture d’écran 2025-11-18 à 20 24 23" src="https://github.com/user-attachments/assets/31ef9f04-edb3-4df8-ae18-8d56a3d0997e" />
+
+## Résultat :
+
+
+https://github.com/user-attachments/assets/94b4268c-1356-4aa4-b628-3659ad244c1a
+
